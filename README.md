@@ -80,7 +80,22 @@ Packliste
 	* ?Kuli/Bleistift
 	* ?Notizheft
 
-Links
-=====
+* Links:
+	* packlist http://www.transalp.info/packlist.php
 
-* packlist http://www.transalp.info/packlist.php
+Etappen (4.5)
+=============
+
+Tag 1: MUC-Telfs
+----------------
+
+Tag 2: Telfs-Pfunds
+-------------------
+
+Tag 3: Pfunds-Lana
+------------------
+
+Tag 4: Lana-Garda
+------------------
+
+EOF
