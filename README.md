@@ -64,6 +64,7 @@ Packliste
 	* ?Klebeband
 	* ?leichtes Schloss
 * Sonstiges:
+	* Hirschtalg
 	* Rucksack
 	* Regenschutz Rucksack
 	* Trinkflasche (2x)
