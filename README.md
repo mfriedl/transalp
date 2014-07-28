@@ -62,7 +62,6 @@ Packliste
 	* Ass-saver
 	* ?Bremsbeläge
 	* ?Klebeband
-	* ?leichtes Schloss
 * Sonstiges:
 	* Rucksack
 	* Regenschutz Rucksack
@@ -72,6 +71,7 @@ Packliste
 	* Lampe vorn, hinten
 	* Erste-Hilfe-Set (checken was drin ist)
 	* Tueten fuer Klamotten (sauber vs nass, etc)
+	* ?leichtes Schloss
 	* ?Traubenzucker
 	* ?Getränke-Pulver
 	* ?Flipflop
@@ -86,16 +86,28 @@ Packliste
 Etappen (4.5)
 =============
 
-Tag 1: MUC-Telfs
-----------------
+Tag 1: München-Jachenau-Mittenwald-Telfs
+----------------------------------------
 
-Tag 2: Telfs-Pfunds
--------------------
+* https://www.komoot.de/tour/3316229
 
-Tag 3: Pfunds-Lana
-------------------
+
+Tag 2: Telfs-Imst-PillerHöhe-Pfunds
+------------------------------------
+
+* https://www.komoot.de/tour/3316361
+* http://www.quaeldich.de/paesse/piller-hoehe/
+
+
+Tag 3: Pfunds-Reschen-Vinschgau-Lana
+------------------------------------
+
+* https://www.komoot.de/tour/3317931
+* http://www.sentres.com/de/rennrad/von-lana-in-den-vinschgau
 
 Tag 4: Lana-Garda
 ------------------
+
+* https://www.komoot.de/tour/3318016
 
 EOF
