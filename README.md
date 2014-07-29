@@ -53,6 +53,7 @@ Packliste
 	* Aspirin
 	* ?Lippenschutz UV
 	* ?Penatencreme
+	* ?Hirschtalgcreme
 * Werkzeug:
 	* Ersatzschlauch (3x)
 	* Reifenheber
