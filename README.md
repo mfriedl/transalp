@@ -64,6 +64,7 @@ Packliste
 	* ?Bremsbeläge
 	* ?Klebeband
 * Sonstiges:
+	* Hirschtalg
 	* Rucksack
 	* Regenschutz Rucksack
 	* Trinkflasche (2x)
