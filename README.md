@@ -99,9 +99,10 @@ Tag 1 (Mi 20): München-Jachenau-Mittenwald-Telfs
 * http://www.booking.com/city/at/telfs.de.html
 * http://www.booking.com/city/at/leutasch.de.html
 * http://www.booking.com/city/at/seefeld-in-tirol.de.html
-* http://www.booking.com/hotel/at/apart-garni-olympia.de.html
-* http://www.booking.com/hotel/at/haus-lukas-mapsern.de.html
 * http://www.booking.com/hotel/at/tirolerhof-telfs.de.html
+* http://www.booking.com/hotel/at/apart-garni-olympia.de.html
+* http://www.booking.com/hotel/at/habhof.de.html
+* http://www.booking.com/hotel/at/haus-lukas-mapsern.de.html
 * http://www.booking.com/hotel/at/gasthof-berghof.de.html
 * http://www.booking.com/hotel/at/christl-s-hof.de.html
 * http://www.booking.com/hotel/at/fra1-4hsta1-4ckspension-ostbasch.de.html
@@ -140,6 +141,7 @@ Tag 3 (Fr 22): Pfunds-Reschen-Vinschgau-Lana
 * http://www.booking.com/hotel/it/panorama-garni-buhlerhof.de.html
 * http://www.booking.com/hotel/it/gasthof-weiaes-rapssl.de.html
 * http://www.booking.com/hotel/it/pension-penegalblick.de.html
+* http://www.booking.com/hotel/it/pension-gruenwald.de.html
 
 Tag 4 (Sa 23): Lana-Kaltern-Molveno-Riva
 ----------------------------------------
