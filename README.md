@@ -101,10 +101,10 @@ Tag 1 (Mi 20): München-Jachenau-Mittenwald-Telfs
 * http://www.booking.com/city/at/seefeld-in-tirol.de.html
 * http://www.booking.com/hotel/at/apart-garni-olympia.de.html
 * http://www.booking.com/hotel/at/haus-lukas-mapsern.de.html
+* http://www.booking.com/hotel/at/tirolerhof-telfs.de.html
 * http://www.booking.com/hotel/at/gasthof-berghof.de.html
 * http://www.booking.com/hotel/at/christl-s-hof.de.html
-* http://www.booking.com/hotel/at/tirolerhof-telfs.de.html
-* http://www.booking.com/hotel/at/fra1-4hsta1-4ckspension-ostbasch.de.html?
+* http://www.booking.com/hotel/at/fra1-4hsta1-4ckspension-ostbasch.de.html
 * http://www.stubenboeck-telfs.com/de 
 * http://www.grischeler.at/
 
@@ -155,7 +155,7 @@ Tag 4 (Sa 23): Lana-Kaltern-Molveno-Riva
 * http://www.booking.com/hotel/it/on-the-rock.de.html
 * http://www.booking.com/hotel/it/miramonti-dro.de.html?
 * http://www.booking.com/hotel/it/benaco-torbole-sul-garda.de.html
-* http://www.booking.com/hotel/it/albergo-ristorante-da-neni.de.html?
+* http://www.booking.com/hotel/it/albergo-ristorante-da-neni.de.html
 * http://www.booking.com/hotel/it/castel-mani.de.html
 * http://www.booking.com/hotel/it/relais-palazzo-lodron.de.html
 * http://www.booking.com/hotel/it/b-amp-b-al-fiume.de.html
