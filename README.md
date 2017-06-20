@@ -94,11 +94,17 @@ Etappen
 Tag 1 (Do 20): München-PenserJoch
 ---------------------------------
 
+* https://www.komoot.de/tour/13933796
+
 Tag 2 (Fr 21): PenserJoch-Ritten-Wuerzjoch-PassoGiau
 ----------------------------------------------------
 
+* https://www.komoot.de/tour/17428320
+
 Tag 3 (Sa 22): PassoGiau-MonteGrappa
 ------------------------------------
+
+* https://www.komoot.de/tour/13934249
 
 Tag 4 (So 24): MonteGrappa-Venedig
 ----------------------------------
