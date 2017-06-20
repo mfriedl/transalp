@@ -6,7 +6,7 @@ Packliste
 
 * Standard-Bekleidung:
 	* Radhelm
-	* Schildmütze (Regen, Sonne)
+	* SchildmÃ¼tze (Regen, Sonne)
 	* Radbrille
 	* Trikot kurz
 	* Baselayer kurz
@@ -29,7 +29,7 @@ Packliste
 		* Handschuhe lang
 	* nass:
 		* Regenjacke
-		* Überschuhe
+		* Ueberschuhe
 	* abends:
 		* ? T-Shirt ( == Wechsel-Baselayer)
 		* Boxershorts
@@ -52,7 +52,7 @@ Packliste
 	* ? Ohropax
 	* Sonnencreme
 	* Zahncreme
-	* Zahnbürste
+	* ZahnbÃ¼rste
 	* Duschgel
 	* Tempo
 	* Aspirin
@@ -65,7 +65,7 @@ Packliste
 	* Minitool
 	* Luftpumpe
 	* ? Ass-saver
-	* ? Bremsbeläge
+	* ? BremsbelÃ¤ge
 	* ? Klebeband
 * Sonstiges:
 	* Fahrkarten
@@ -76,10 +76,10 @@ Packliste
 	* ? Lampe vorn
 	* Lampe hinten
 	* Erste-Hilfe-Set
-	* Tüten fuer Klamotten (sauber vs nass, etc)
+	* TÃ¼ten fuer Klamotten (sauber vs nass, etc)
 	* leichtes Schloss
 	* ? Traubenzucker
-	* ? Getränke-Pulver
+	* ? GetrÃ¤nke-Pulver
 	* ? Flipflop
 	* ? Handtuch Microfaser klein
 	* ? Kartenmaterial
@@ -91,7 +91,7 @@ Packliste
 Etappen
 =======
 
-Tag 1 (Do 20): München-PenserJoch
+Tag 1 (Do 20): MÃ¼nchen-PenserJoch
 ---------------------------------
 
 Tag 2 (Fr 21): PenserJoch-Ritten-Wuerzjoch-PassoGiau
