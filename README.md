@@ -21,6 +21,7 @@ Packliste
 		* Baselayer
 		* ? Trikot kurz
 		* ? Socken
+		* ? Bibs (waschen?)
 	* kalt:
 		* Weste (gut sichbar)
 		* Buff
@@ -33,8 +34,9 @@ Packliste
 	* abends:
 		* ? T-Shirt ( == Wechsel-Baselayer)
 		* Boxershorts
-		* Laufhose kurz
-		* ? Kurze Hose casual
+		* Radonne Shorts
+		* ? Laufhose kurz (leichter)
+		* ? Baselayer lang
 * Geldbeutel:
 	* Ausweis
 	* EC-Karte
@@ -94,17 +96,19 @@ Etappen
 Tag 1 (Do 20): München-PenserJoch
 ---------------------------------
 
-* https://www.komoot.de/tour/13933796
+* https://www.komoot.de/tour/18575398
 
 Tag 2 (Fr 21): PenserJoch-Ritten-Wuerzjoch-PassoGiau
 ----------------------------------------------------
 
-* https://www.komoot.de/tour/17428320
+* https://www.komoot.de/tour/18575350
 
 Tag 3 (Sa 22): PassoGiau-MonteGrappa
 ------------------------------------
 
-* https://www.komoot.de/tour/13934249
+* https://www.komoot.de/tour/18575438
 
 Tag 4 (So 24): MonteGrappa-Venedig
 ----------------------------------
+
+* https://www.komoot.de/tour/18575493
