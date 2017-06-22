@@ -108,7 +108,7 @@ Tag 3 (Sa 22): PassoGiau-MonteGrappa
 
 * https://www.komoot.de/tour/18575438
 
-Tag 4 (So 24): MonteGrappa-Venedig
+Tag 4 (So 23): MonteGrappa-Venedig
 ----------------------------------
 
 * https://www.komoot.de/tour/18575493
