@@ -137,8 +137,9 @@ Tag 3 (Sa 22): PassoGiau-MonteGrappa
 	* http://www.quaeldich.de/paesse/monte-grappa/
 		* https://www.strava.com/segments/672992
 
-* Variante 1, 20% Grappa-Aufstieg: https://www.komoot.de/tour/18757707
-* Variante 2, einfacherer Aufstieg: https://www.komoot.de/tour/18758099
+* Variante 1, 20% Grappa, Cibiana/Duran: https://www.komoot.de/tour/18757707
+* Variante 2, einfacher, Cibiana/Duran: https://www.komoot.de/tour/18758099
+* Variante 3, 20% Grappa, Staulanza/Duran: https://www.komoot.de/tour/18762039
 
 Tag 4 (So 23): MonteGrappa-Venedig
 ----------------------------------
