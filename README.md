@@ -144,3 +144,4 @@ Tag 4 (So 23): MonteGrappa-Venedig
 ----------------------------------
 
 * https://www.komoot.de/tour/18575493
+* Variante Treviso: https://www.komoot.de/tour/18759722
