@@ -104,6 +104,7 @@ Tag 1 (Do 20): München-PenserJoch
 		* https://www.strava.com/segments/9306177
 	* http://www.quaeldich.de/paesse/penser-joch/
 		* https://www.strava.com/segments/4470587
+* Brenner-Ost Variante: https://www.komoot.de/tour/18757549
 
 Tag 2 (Fr 21): PenserJoch-Ritten-Wuerzjoch-PassoGiau
 ----------------------------------------------------
@@ -135,6 +136,9 @@ Tag 3 (Sa 22): PassoGiau-MonteGrappa
 		* https://de.wikipedia.org/wiki/Passo_Rolle
 	* http://www.quaeldich.de/paesse/monte-grappa/
 		* https://www.strava.com/segments/672992
+
+* Variante 1, 20% Grappa-Aufstieg: https://www.komoot.de/tour/18757707
+* Variante 2, einfacherer Aufstieg: https://www.komoot.de/tour/18758099
 
 Tag 4 (So 23): MonteGrappa-Venedig
 ----------------------------------
