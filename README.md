@@ -140,6 +140,9 @@ Tag 3 (Sa 22): PassoGiau-MonteGrappa
 * Variante 1, 20% Grappa, Cibiana/Duran: https://www.komoot.de/tour/18757707
 * Variante 2, einfacher, Cibiana/Duran: https://www.komoot.de/tour/18758099
 * Variante 3, 20% Grappa, Staulanza/Duran: https://www.komoot.de/tour/18762039
+	* http://www.quaeldich.de/paesse/passo-duran/
+	* http://www.quaeldich.de/paesse/passo-cibiana/
+	* http://www.quaeldich.de/paesse/forcella-staulanza/
 
 Tag 4 (So 23): MonteGrappa-Venedig
 ----------------------------------
