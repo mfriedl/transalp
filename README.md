@@ -105,6 +105,12 @@ Tag 1 (Do 20): München-PenserJoch
 	* http://www.quaeldich.de/paesse/penser-joch/
 		* https://www.strava.com/segments/4470587
 * Brenner-Ost Variante: https://www.komoot.de/tour/18757549
+* Zeitplan:
+	* 4h Grenze AUT
+	* 7h Innsbruck
+	* 9h Brenner
+	* 10h Sterzing
+	* 12h Penser Joch
 
 Tag 2 (Fr 21): PenserJoch-Ritten-Wuerzjoch-PassoGiau
 ----------------------------------------------------
@@ -124,6 +130,13 @@ Tag 2 (Fr 21): PenserJoch-Ritten-Wuerzjoch-PassoGiau
 		* https://www.strava.com/segments/618935
 	* [ alternative: http://www.quaeldich.de/paesse/passo-di-valparola/ ]
 		* [ https://www.strava.com/segments/1440645 ]
+* Zeitplan:
+	* 2:20h	Klobenstein
+	* 3:30h Klausen
+	* 6:15h Wuerzjoch
+	* 9:00h Corvara
+	* 9:50h Araba
+	* 12:00h Giau
 
 Tag 3 (Sa 22): PassoGiau-MonteGrappa
 ------------------------------------
@@ -143,6 +156,12 @@ Tag 3 (Sa 22): PassoGiau-MonteGrappa
 	* http://www.quaeldich.de/paesse/passo-duran/
 	* http://www.quaeldich.de/paesse/passo-cibiana/
 	* http://www.quaeldich.de/paesse/forcella-staulanza/
+* Zeitplan:
+	* 2:20h Cibiana
+	* 3:00h Dont
+	* 4:00h Duran
+	* 6:00h Feltre
+	* 9:00h Grappa
 
 Tag 4 (So 23): MonteGrappa-Venedig
 ----------------------------------
